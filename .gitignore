@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+.module-cache/
+*.app
+*.zip
+DerivedData/
+Resources/RaptureMac
+Resources/com.local.rapturemac.launcher.plist
