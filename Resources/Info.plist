@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleDevelopmentRegion</key><string>en</string>
+  <key>CFBundleDisplayName</key><string>RaptureMac</string>
+  <key>CFBundleExecutable</key><string>RaptureMac</string>
+  <key>CFBundleIdentifier</key><string>com.local.rapturemac</string>
+  <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+  <key>CFBundleName</key><string>RaptureMac</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleIconFile</key><string>RaptureMac</string>
+  <key>CFBundleShortVersionString</key><string>1.0</string>
+  <key>CFBundleSupportedPlatforms</key><array><string>MacOSX</string></array>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>LSMinimumSystemVersion</key><string>12.0</string>
+  <key>NSScreenCaptureUsageDescription</key><string>Capture only the screen area you select.</string>
+  <key>NSPrincipalClass</key><string>NSApplication</string>
+</dict></plist>
